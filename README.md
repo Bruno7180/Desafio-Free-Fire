@@ -53,8 +53,9 @@ Após compilar, execute o programa com:
 
 ## Autor
 
-[Seu Nome]
+[Bruno7180]
 
 ## Licença
+
 
 Este projeto é para fins acadêmicos.
